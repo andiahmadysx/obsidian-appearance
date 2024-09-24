@@ -1,0 +1,13 @@
+.markdown-rendered hr {
+	border-color: rgb(197 197 197 / 16%) !important;
+	margin-bottom: -24px !important;
+	
+}
+
+.markdown-preview-view hr, hr {
+	border-color: rgb(197 197 197 / 16%) !important;
+}
+
+.footnotes hr{
+	display: none;
+}

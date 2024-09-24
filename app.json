@@ -1,0 +1,27 @@
+{
+  "focusNewTab": true,
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Rough Notes",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_assets",
+  "showUnsupportedFiles": true,
+  "autoConvertHtml": false,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showIndentGuide": false,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "smartIndentList": true,
+  "showLineNumber": false,
+  "showRibbon": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 95
+  },
+  "propertiesInDocument": "visible"
+}

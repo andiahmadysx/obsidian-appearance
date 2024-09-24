@@ -1,0 +1,23 @@
+.indicator{
+   padding: 4px; 
+   font-size: 12px; 
+   border-top: 1px solid #636e7b; 
+   width: 100%; 
+   display: flex;
+}
+
+.indicator i{
+  color: #636e7b;
+}
+
+.indicator-refrences{
+   padding: 4px; 
+   font-size: 12px; 
+   width: 100%; 
+   display: flex;
+   border-top: 1px solid #636e7b; 
+}
+
+.indicator-refrences i{
+  color: #636e7b;
+}

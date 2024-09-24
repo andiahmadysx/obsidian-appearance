@@ -1,0 +1,21 @@
+{
+  "headingGaps": {
+    "beforeTopLevelHeadings": "1",
+    "beforeFirstSubHeading": "1",
+    "beforeSubHeadings": "1"
+  },
+  "otherGaps": {
+    "afterProperties": "0",
+    "beforeContents": "1",
+    "beforeContentsAfterCodeBlocks": "",
+    "beforeCodeBlocks": "",
+    "beforeCodeBlocksAfterHeadings": "1"
+  },
+  "formatOptions": {
+    "insertNewline": false
+  },
+  "otherOptions": {
+    "notifyWhenUnchanged": true,
+    "showMoreDetailedErrorMessages": false
+  }
+}
